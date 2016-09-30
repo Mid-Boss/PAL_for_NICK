@@ -14,4 +14,6 @@ while (!file_text_eof(fid))
     count++;
 }
 
+file_text_close(fid);
+
 scr_dialogue_parser(master_array);

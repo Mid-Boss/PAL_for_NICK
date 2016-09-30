@@ -1,2 +1,3 @@
-[b,l]	Sidharth
+[b,r,l]	Sidharth
+[b,l,r]	Vicky
 [n,Sidharth]	Good day, young lady.

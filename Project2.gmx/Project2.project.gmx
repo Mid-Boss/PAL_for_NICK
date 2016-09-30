@@ -145,6 +145,7 @@
     <script>scripts\scr_dialogue_text_file.gml</script>
     <script>scripts\scr_dialogue_parser.gml</script>
     <script>scripts\scr_add_bust.gml</script>
+    <script>scripts\scr_bust_database.gml</script>
   </scripts>
   <fonts name="fonts">
     <font>fonts\font1</font>
@@ -195,6 +196,9 @@
       </objects>
     </objects>
     <object>objects\test_test</object>
+    <objects name="dialogue">
+      <object>objects\obj_basic_bust</object>
+    </objects>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_transistion</room>
